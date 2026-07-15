@@ -1,0 +1,2191 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el objetivo central de la Inteligencia Artificial según la definición más simple\ndel campo de la informática?",
+    "opciones": [
+      "a) Dotar a las máquinas de capacidades inteligentes para que sean útiles y eficientes.",
+      "b) Programar reglas explícitas para cada situación posible que una máquina pueda\nenfrentar.",
+      "c) Replicar exactamente la conciencia humana en un entorno digital.",
+      "d) Sustituir la toma de decisiones humana por procesos puramente mecánicos."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué característica distingue fundamentalmente a la IA Estrecha (ANI) de otros\nniveles de capacidad?",
+    "opciones": [
+      "a) Posee una sabiduría general que supera a la mente humana más brillante.",
+      "b) Es un concepto puramente especulativo que aún no existe en la actualidad.",
+      "c) Es capaz de aprender y aplicar conocimiento de forma autónoma a cualquier\nproblema.",
+      "d) Está diseñada y entrenada para realizar una única tarea específica."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 3,
+    "pregunta": "Dentro de los tres niveles de la IA, ¿cómo se clasifica a los asistentes virtuales\nactuales como Siri o Alexa?",
+    "opciones": [
+      "a) Inteligencia Artificial General (AGI)",
+      "b) Inteligencia Colectiva de Enjambre",
+      "c) Inteligencia Artificial Estrecha (ANI)",
+      "d) Súper Inteligencia Artificial (ASI)"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 4,
+    "pregunta": "En el contexto del Aprendizaje Automático (Machine Learning), ¿cuál es la función de\nlos 'datos'?",
+    "opciones": [
+      "a) Actuar como una base de datos de consulta directa para el usuario.",
+      "b) Servir como un manual de reglas estáticas 'SI-ENTONCES'.",
+      "c) Permitir que el algoritmo identifique patrones y aprenda por sí mismo.",
+      "d) Eliminar la necesidad de potencia computacional."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 5,
+    "pregunta": "El Aprendizaje Profundo (Deep Learning) se distingue por el uso de:",
+    "opciones": [
+      "a) Redes neuronales artificiales con muchas capas.",
+      "b) Lógica proposicional simple y lineal.",
+      "c) Algoritmos que solo funcionan con datos etiquetados manualmente.",
+      "d) Sistemas basados únicamente en hardware mecánico."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿En qué consiste el Aprendizaje No Supervisado?",
+    "opciones": [
+      "a) El sistema aprende a partir de ejemplos previamente etiquetados por humanos.",
+      "b) Es una técnica que solo se utiliza para la regresión lineal.",
+      "c) El sistema encuentra patrones y estructuras ocultas en datos sin etiquetar.",
+      "d) El sistema no requiere la supervisión constante de un supervisor durante su ejecución."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 7,
+    "pregunta": "Dentro del Procesamiento del Lenguaje Natural (NLP), ¿qué tarea se encarga del\netiquetado gramatical (POS Tagging)?",
+    "opciones": [
+      "a) Análisis Sintáctico y Morfológico",
+      "b) Extracción de Ontologías",
+      "c) Modelado de Temas (Topic Modeling)",
+      "d) Análisis Semántico"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué herramienta se utiliza para manejar información imperfecta, incierta o\nincompleta en la representación del conocimiento?",
+    "opciones": [
+      "a) Lógica Difusa",
+      "b) Algoritmo A∗",
+      "c) Lógica de Primer Orden",
+      "d) Tokenización"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 9,
+    "pregunta": "En el contexto de la robótica, ¿qué significa la sigla SLAM?",
+    "opciones": [
+      "a) Algoritmo de Segmentación Lineal de Actuadores.",
+      "b) Sistema de Lenguaje de Aprendizaje Mecánico.",
+      "c) Localización y Mapeo Simultáneos.",
+      "d) Sincronización Lógica de Agentes Múltiples."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál de los siguientes algoritmos se asocia comúnmente con el Aprendizaje\nSupervisado?",
+    "opciones": [
+      "a) DBSCAN",
+      "b) PCA (Análisis de Componentes Principales)",
+      "c) K-Means",
+      "d) Support Vector Machines (SVM)"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 11,
+    "pregunta": "El Test de Turing es una prueba clásica diseñada para:",
+    "opciones": [
+      "a) Evaluar si el comportamiento de una máquina es indistinguible del de un humano.",
+      "b) Medir la potencia bruta de cálculo de un ordenador.",
+      "c) Verificar que el código fuente no contenga errores de sintaxis.",
+      "d) Determinar si una IA está cometiendo errores en sus respuestas."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué algoritmos se aplican en el “Aprendizaje No Supervisado”?",
+    "opciones": [
+      "a) Tokenización",
+      "b) Random Forest",
+      "c) PCA",
+      "d) Regresión Logística"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuál es la función principal de la lógica proposicional dentro del campo de la\nInteligencia Artificial?",
+    "opciones": [
+      "a) Optimizar exclusivamente el hardware de procesamiento gráfico para cálculos\nmatemáticos.",
+      "b) Modelar el comportamiento humano a través de redes neuronales biológicas.",
+      "c) Almacenar grandes cantidades de datos no estructurados en bases de datos\nrelacionales.",
+      "d) Representar y razonar sobre el conocimiento mediante enunciados que pueden ser\nverdaderos o falsos."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuál es una de las limitaciones críticas de la lógica proposicional al compararla con\nla lógica de primer orden en aplicaciones de IA?",
+    "opciones": [
+      "a) Dependencia absoluta de datos probabilísticos para generar inferencias.",
+      "b) Imposibilidad de ser utilizada para verificar la consistencia de modelos.",
+      "c) Excesiva complejidad en la implementación de conectivos básicos como el AND.",
+      "d) Incapacidad para representar cuantificadores como 'para todo' o 'existe'."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué significa que el problema de la satisfactibilidad proposicional (SAT) sea NP-\ncompleto?",
+    "opciones": [
+      "a) Que solo puede ser resuelto por sistemas de inteligencia artificial probabilística.",
+      "b) Que puede ser computacionalmente costoso resolver problemas de gran escala.",
+      "c) Que es imposible que un algoritmo determine si una fórmula es verdadera o falsa.",
+      "d) Que el sistema siempre encontrará una solución en tiempo lineal."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 16,
+    "pregunta": "Señale la aplicación en la cual se utiliza la lógica proposicional para especificar\nestados previos y resultados de acciones.",
+    "opciones": [
+      "a) Compresión de datos sin pérdida.",
+      "b) Visión artificial para reconocimiento de rostros.",
+      "c) Planificación y robótica.",
+      "d) Sistemas de recomendación basados en filtrado colaborativo."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Cuál es un ejemplo de uso de la lógica proposicional en la verificación de modelos\nen IA?",
+    "opciones": [
+      "a) Validar si una base de datos contiene registros duplicados.",
+      "b) Validar si un circuito digital cumple con sus especificaciones lógicas.",
+      "c) Medir la precisión de un modelo de regresión lineal.",
+      "d) Determinar la velocidad de conexión a internet de un servidor."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué sucede con la eficiencia de los algoritmos de lógica proposicional cuando el\nconjunto de cláusulas es extremadamente grande?",
+    "opciones": [
+      "a) Se mantiene constante gracias al uso de operadores básicos como el OR.",
+      "b) Se vuelve instantánea gracias a la simplicidad de la representación.",
+      "c) Aumenta, ya que el sistema tiene más datos para aprender patrones.",
+      "d) Tiende a disminuir debido a la naturaleza NP-completa del problema."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué aspecto evalúa rigurosamente el criterio de completitud en un algoritmo de\nbúsqueda?",
+    "opciones": [
+      "a) La capacidad para hallar una solución al problema planteado en caso de que esta\nexista",
+      "b) La optimización del tiempo de ejecución total requerido al expandir los nodos del\nárbol",
+      "c) El consumo de memoria máximo que el sistema operativo registra durante todo el\nproceso real",
+      "d) La cantidad de arcos existentes que conectan el estado inicial con el estado meta final"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 20,
+    "pregunta": "Dentro del análisis de complejidad, ¿cómo se define formalmente la variable\ndenotada como\nd?",
+    "opciones": [
+      "a) La profundidad exacta en la que se encuentra el nodo objetivo más cercano a la raíz\ndada",
+      "b) El número promedio de transiciones sucesoras que se derivan a partir de un estado\nactivo",
+      "c) La cantidad total de configuraciones que el entorno puede llegar a adoptar en su peor\ncaso",
+      "d) El límite máximo de niveles que posee el espacio de estados modelado para el sistema\nIA"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué ventaja metodológica aporta representar un espacio de estados mediante un\ngrafo dirigido?",
+    "opciones": [
+      "a) Modelar las transiciones entre estados permitiendo que las acciones tengan un\nsentido único",
+      "b) Resolver de forma directa la secuencia óptima de pasos sin necesidad de aplicar\nalgoritmos",
+      "c) Disminuir el factor de ramificación global reduciendo el uso de memoria en cada ciclo\nreal",
+      "d) Eliminar la posibilidad de encontrar bucles o caminos repetidos a lo largo de la\nestructura"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué define exactamente la función de transición en un problema de búsqueda?",
+    "opciones": [
+      "a) El costo acumulado necesario para alcanzar un estado objetivo final",
+      "b) El estado sucesor obtenido después de aplicar una acción válida",
+      "c) El conjunto completo de operadores disponibles en todo el entorno",
+      "d) El criterio utilizado para verificar si un nodo es solución"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 23,
+    "pregunta": "En la representación formal ⟨S, A, T, O, C⟩, ¿qué representa el componente A?",
+    "opciones": [
+      "a) El conjunto de acciones aplicables dentro de los estados posibles",
+      "b) El conjunto de algoritmos utilizados para resolver el problema planteado",
+      "c) El conjunto de arcos existentes dentro del espacio de búsqueda",
+      "d) El conjunto de aproximaciones heurísticas usadas por el sistema"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué característica distingue principalmente a la búsqueda informada de la\nbúsqueda ciega?",
+    "opciones": [
+      "a) Utiliza únicamente estructuras de datos basadas en pilas recursivas",
+      "b) Recorre primero los nodos más profundos antes de expandir niveles",
+      "c) Garantiza encontrar soluciones óptimas sin importar el tipo de problema",
+      "d) Emplea estimaciones heurísticas para orientar la exploración del espacio"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuál es el comportamiento principal del algoritmo Breadth-First Search (BFS)?",
+    "opciones": [
+      "a) Expandir primero los nodos más cercanos a la raíz del árbol generado",
+      "b) Seleccionar siempre el nodo con menor costo acumulado disponible",
+      "c) Explorar únicamente ramas profundas usando estructuras tipo pila",
+      "d) Priorizar los estados estimados como más próximos a la meta final"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuál es la principal desventaja del algoritmo Depth-First Search (DFS)?",
+    "opciones": [
+      "a) Requiere almacenar todos los nodos generados en cada nivel existente",
+      "b) Puede quedar atrapado en ramas infinitas o excesivamente profundas",
+      "c) Necesita funciones heurísticas para expandir correctamente los estados",
+      "d) Presenta complejidad espacial mayor que la búsqueda en anchura BFS"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Qué criterio utiliza Uniform Cost Search (UCS) para expandir nodos?",
+    "opciones": [
+      "a) La profundidad mínima alcanzada dentro del árbol de exploración actual",
+      "b) El valor heurístico estimado restante hasta llegar al objetivo final",
+      "c) El menor costo acumulado registrado desde el nodo inicial del problema",
+      "d) La cantidad total de sucesores generados en cada transición aplicada"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Cuál es la principal ventaja de Iterative Deepening respecto a BFS?",
+    "opciones": [
+      "a) Mantiene optimalidad con un consumo de memoria considerablemente menor",
+      "b) Elimina completamente la necesidad de controlar estados repetidos",
+      "c) Garantiza soluciones incluso cuando existen costos negativos variables",
+      "d) Utiliza funciones heurísticas avanzadas para reducir expansiones futuras"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 29,
+    "pregunta": "En el algoritmo A*, ¿qué representa específicamente la función heurística h(n)?",
+    "opciones": [
+      "a) El costo exacto acumulado desde el estado inicial hasta el nodo actual",
+      "b) La estimación restante del costo necesario para alcanzar la meta final",
+      "c) La profundidad máxima alcanzada durante la expansión de los nodos",
+      "d) El número promedio de transiciones generadas en cada iteración activa"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué condición debe cumplir una heurística para que A* conserve optimalidad?",
+    "opciones": [
+      "a) Incrementar progresivamente el valor del costo acumulado en cada nivel",
+      "b) Nunca sobreestimar el costo real restante hasta alcanzar la solución",
+      "c) Utilizar funciones lineales en todas las evaluaciones realizadas",
+      "d) Depender únicamente de la profundidad actual dentro del árbol generado"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué característica define al algoritmo Greedy Best-First Search?",
+    "opciones": [
+      "a) Considera simultáneamente el costo real y la función heurística disponible",
+      "b) Expande exclusivamente caminos cuyos costos acumulados sean uniformes",
+      "c) Explora todos los niveles completos antes de aumentar profundidad actual",
+      "d) Selecciona nodos utilizando únicamente la estimación heurística restante"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cómo evita Simulated Annealing quedar atrapado en óptimos locales?",
+    "opciones": [
+      "a) Reiniciando completamente la búsqueda después de cada iteración fallida",
+      "b) Explorando simultáneamente todos los vecinos posibles de cada estado",
+      "c) Aceptando temporalmente soluciones peores con cierta probabilidad variable",
+      "d) Manteniendo fija la temperatura durante toda la ejecución del algoritmo"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿En qué consiste la búsqueda local?",
+    "opciones": [
+      "a) Tipo de búsqueda que solo utiliza la definición del problema",
+      "b) Tipo de búsqueda que opera sobre un único estado actual",
+      "c) Tipo de búsqueda que utiliza funciones heurísticas",
+      "d) Tipo de búsqueda que busca valores que cumplan condiciones."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿En qué consiste el costo de ruta en los problemas de búsqueda?",
+    "opciones": [
+      "a) Es un parámetro que define la probabilidad de que un camino sea el más corto dentro\nde un gráfico sin pesos definidos.",
+      "b) Es el valor numérico total acumulado que representa la suma de los costos de los\npasos individuales para llegar a un nodo.",
+      "c) Es el valor nominal asignado a un nodo objetivo para diferenciarlo de los nodos de\nexpansión intermedia en el árbol de búsqueda.",
+      "d) Es el cálculo matemático del tiempo total que tardaría un agente en recorrer todos los\nestados posibles del espacio de búsqueda."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Cómo se denomina a la función que determina si un estado dado es un estado\nobjetivo?",
+    "opciones": [
+      "a) Transición de modelo",
+      "b) Prueba de objetivo",
+      "c) Costo de ruta",
+      "d) Secuencia de estados"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 36,
+    "pregunta": "Al modelar el problema de las N-Reinas como un Problema de Satisfacción de\nRestricciones (CSP), ¿cómo se definen formalmente las variables y sus dominios en\nun tablero estándar de 8x8?",
+    "opciones": [
+      "a) Las variables representan cada una de las columnas del tablero y sus dominios\nequivalen a todas las filas posibles de la 1 a la 8.",
+      "b) Las variables definen el número total de soluciones posibles y sus dominios se limitan\nexclusivamente a las casillas diagonales.",
+      "c) Las variables corresponden a las restricciones de amenaza y sus dominios son los\nvalores booleanos que validan si el estado es seguro.",
+      "d) Las variables equivalen a las posiciones de las piezas capturadas y sus dominios\nrepresentan las filas libres restantes del juego."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué representa específicamente el concepto de \"Estado\" en el ámbito de la\nresolución de problemas?",
+    "opciones": [
+      "a) El criterio de evaluación que valida si un camino específico es óptimo o no.",
+      "b) El conjunto completo de operadores disponibles para modificar la situación actual.",
+      "c) La configuración única que se determina al inicio para comenzar la exploración.",
+      "d) La descripción y abstracción de las condiciones del entorno en un momento dado."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Cómo se define el \"Estado Inicial\" al resolver un Problema de Satisfacción de\nRestricciones (CSP) mediante algoritmos de búsqueda?",
+    "opciones": [
+      "a) Una asignación completa que contiene valores aleatorios en cada variable.",
+      "b) Una asignación parcial que cumple únicamente la primera restricción.",
+      "c) Una asignación vacía donde ninguna variable tiene un valor.",
+      "d) Una asignación fija donde todas las variables poseen el mismo valor."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cómo actúa el algoritmo de Búsqueda por Vuelta Atrás (Backtracking Search)\ncuando detecta que una asignación de valor es inconsistente?",
+    "opciones": [
+      "a) Retrocede para probar el siguiente valor disponible en el dominio de la variable\nactual.",
+      "b) Reinicia completamente el proceso limpiando las asignaciones de todas las variables.",
+      "c) Descarta la variable de manera permanente para continuar con el resto del tablero.",
+      "d) Finaliza la ejecución del sistema informando que el problema no tiene solución."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es el propósito principal de aplicar la Regla del Mínimo Valores Restantes\n(MRV) durante la selección de variables en un problema CSP?",
+    "opciones": [
+      "a) Descartar de forma permanente las variables que presenten más de una restricción\nactiva.",
+      "b) Seleccionar la variable que afecte al mayor número de restricciones con variables no\nasignadas.",
+      "c) Escoger el valor que elimine la menor cantidad de opciones en los dominios de los\nvecinos.",
+      "d) Elegir la variable con el dominio más pequeño para descubrir cualquier conflicto lo\nantes posible."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿A qué hace referencia la búsqueda en el tema de la IA?",
+    "opciones": [
+      "a) A la validación exhaustiva de todas las reglas lógicas que definen las condiciones de un\nsistema experto basado en conocimiento previo.",
+      "b) A la ejecución algorítmica de procesos complejos para clasificar grandes volúmenes de\ndatos dentro de un entorno de aprendizaje automático.",
+      "c) A la implementación de técnicas de visualización para representar de forma gráfica los\ndiferentes estados intermedios del mundo real.",
+      "d) A la exploración sistemática de un espacio de estados para hallar una secuencia de\nacciones que conecte el estado inicial con uno objetivo."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué es lo que se busca en un problema de satisfacción de restricciones?",
+    "opciones": [
+      "a) Encontrar una asignación de valores a todas las variables que cumplan con todas las\nrestricciones definidas",
+      "b) Maximizar una función de utilidad basada en la selección de un subconjunto de\nvariables interdependientes.",
+      "c) Calcular la probabilidad de que una configuración aleatoria de variables sea capaz de\nevitar estados de falla en el entorno.",
+      "d) Determinar el camino óptimo desde un estado inicial hasta un estado objetivo\nmediante una secuencia de acciones."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Cuál es la función del algoritmo Backtracking Search?",
+    "opciones": [
+      "a) Explorar todas las combinaciones de forma paralela para encontrar la solución más\na) eficiente.",
+      "b) Seleccionar el mejor camino basado en una función heurística sin realizar retrocesos.",
+      "c) Asigna valores a las variables una por una y retrocede cuando se viola una restricción.",
+      "d) Asigna valores a las variables de manera aleatoria y retrocede si hay un error en ellas."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Cuál de los siguientes algoritmos es uno de Búsqueda Heurística (informad",
+    "opciones": [
+      "a) ?\na) A estrella (A*)",
+      "b) Hill Climbing",
+      "c) Temple Simulado",
+      "d) Algoritmos genéticos"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuál es la función principal del algoritmo Expectiminimax al gestionar juegos que\ninvolucran\noponentes?",
+    "opciones": [
+      "a) Memorizar de forma determinista las jugadas previas del rival sin realizar cálculos\nestadísticos sobre los estados futuros.",
+      "b) Reemplazar por completo la estructura clásica de Minimax para eliminar la necesidad\nde evaluar las acciones del oponente directo.",
+      "c) Garantizar la maximización de la utilidad mediante la exclusión de variables\nprobabilísticas o eventos fortuitos del entorno.",
+      "d) Introducir nodos de azar para calcular el valor esperado según las probabilidades de\nlos sucesores en juegos con elementos aleatorios."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cuál es el beneficio principal de aplicar la optimización de Poda Alfa-Beta (Alpha-\nBeta Pruning) sobre el algoritmo Minimax clásico?",
+    "opciones": [
+      "a) Incrementa los requisitos de memoria del sistema al almacenar múltiples árboles\nalternativos de decisiones futuras.",
+      "b) Elimina ramas que no influyen en el resultado final, permitiendo explorar menos nodos\ny alcanzar mayor profundidad.",
+      "c) Modifica la decisión óptima final para priorizar caminos con menor riesgo\nprobabilístico ante el oponente.",
+      "d) Desactiva la función de evaluación heurística para acelerar el procesamiento de todos\nlos nodos terminales del árbol."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Cómo se definen formalmente las técnicas de búsqueda en el contexto de la\nInteligencia Artificial?",
+    "opciones": [
+      "a) Sistemas de reglas heurísticas que operan sobre bases de datos relacionales.",
+      "b) Serie de funciones matemáticas diseñadas para la optimización de procesos\nestocásticos.",
+      "c) Grupo de esquemas de representación del conocimiento mediante varios algoritmos.",
+      "d) Conjunto de procedimientos lógicos que permiten el aprendizaje automático\nsupervisado."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 48,
+    "pregunta": "En los elementos de las técnicas de búsqueda, ¿qué representa el denominado\n“conjunto de estados”?",
+    "opciones": [
+      "a) Las secuencias de acciones necesarias para alcanzar una meta determinada.",
+      "b) El historial de nodos visitados durante la ejecución de un algoritmo.",
+      "c) Todas las configuraciones posibles que pueden existir dentro del dominio.",
+      "d) Los criterios de parada que definen cuándo un problema ha concluido."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué caracteriza fundamentalmente a la denominada búsqueda ciega o no\ninformada del dominio?",
+    "opciones": [
+      "a) Requiere obligatoriamente un conocimiento experto sobre la estructura del\nproblema.",
+      "b) Utiliza funciones de evaluación para descartar ramas del árbol activas.",
+      "c) Explora sistemáticamente los estados sin utilizar información heurística.",
+      "d) No se realiza análisis entre el estado obtenido y la solución."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 50,
+    "pregunta": "En la implementación de la búsqueda en amplitud, ¿qué estructura de datos se\nutiliza para administrar los nodos pendientes de exploración?",
+    "opciones": [
+      "a) Una pila con política de extracción LIFO",
+      "b) Una cola con política de atención FIFO",
+      "c) Un árbol binario balanceado por prioridad",
+      "d) Una lista enlazada ordenada por profundidad"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuál es la principal ventaja de utilizar la técnica de búsqueda en amplitud?",
+    "opciones": [
+      "a) Reduce considerablemente el consumo de memoria principal.",
+      "b) Garantiza encontrar la solución situada a menor profundidad.",
+      "c) Elimina completamente la posibilidad de ciclos infinitos.",
+      "d) Disminuye automáticamente el factor de ramificación del árbol."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Qué fenómeno ocurre en la búsqueda en profundidad cuando se decide terminar\nuna dirección?",
+    "opciones": [
+      "a) Se eliminan todos los nodos cerrados de la memoria principal",
+      "b) Se reinicia el proceso desde el nodo inicial del árbol",
+      "c) Se detiene la ejecución por haber alcanzado un estado final",
+      "d) Se produce una vuelta atrás o backtracking hacia otra rama"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Cuál es uno de los mayores riesgos asociados a la búsqueda en profundidad?",
+    "opciones": [
+      "a) La dependencia absoluta de una función de evaluación del dominio",
+      "b) La imposibilidad de encontrar soluciones en niveles muy poco profundos",
+      "c) Existe el riesgo de presencia de bucles de tipo infinito",
+      "d) El almacenamiento obligatorio de todos los nodos de cada nivel"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué condición es necesaria para que la búsqueda bidireccional funcione\ncorrectamente?",
+    "opciones": [
+      "a) El árbol debe tener una profundidad máxima estrictamente limitada a dos",
+      "b) Los operadores deben ser aplicados de forma irrevocable en ambos",
+      "c) Al menos una de las búsquedas debe ser en anchura",
+      "d) Ambas búsquedas deben emplear el mismo tipo de heurística"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Cuál es el objetivo principal de los sistemas de reducción en IA?",
+    "opciones": [
+      "a) Reducir un problema en subproblemas más sencillos que el original",
+      "b) Eliminar estados redundantes para minimizar el tamaño del grafo final",
+      "c) Disminuir el tiempo de ejecución mediante la poda de ramas",
+      "d) Transformar problemas heurísticos en búsquedas de tipo ciego o sistemático"
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Cuál es la principal desventaja de la técnica de búsqueda “Primero el mejor”?",
+    "opciones": [
+      "a) La incapacidad de encontrar soluciones en grafos con muchos ciclos",
+      "b) Bajo coste computacional que impide alcanzar estados terminales complejos",
+      "c) Excesiva complejidad espacial por guardar todos los nodos abiertos",
+      "d) Dependencia absoluta de que el sistema sea de tipo irrevocable"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 57,
+    "pregunta": "En juegos con adversario, ¿cuál es el propósito fundamental del algoritmo\nMINIMAX?",
+    "opciones": [
+      "a) Minimizar la pérdida máxima posible frente a un rival racional.",
+      "b) Expandir únicamente las ramas con mayor valor heurístico.",
+      "c) Reducir el número de estados terminales del árbol de juego.",
+      "d) Garantizar la obtención inmediata de una jugada ganadora."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 58,
+    "pregunta": "De acuerdo con el funcionamiento de la Poda Alfa-Beta, ¿cuándo puede suspenderse\nla exploración de una rama?",
+    "opciones": [
+      "a) Cuando un nodo terminal obtiene una evaluación heurística igual a cero.",
+      "b) Cuando la profundidad del árbol supera el límite definido previamente.",
+      "c) Cuando un valor beta resulta menor o igual a un valor alfa ascendente.",
+      "d) Cuando existen múltiples nodos abiertos con idéntica evaluación."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué beneficio directo aporta la aplicación de la poda alfa-beta al algoritmo\nminimax?",
+    "opciones": [
+      "a) Aumenta la precisión de la función de evaluación heurística",
+      "b) Permite ahorrar espacio y tiempo computacional durante la búsqueda",
+      "c) Obliga al oponente a elegir ramas con menor factor ramificación",
+      "d) Transforma un juego de información perfecta en uno estocástico"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 60,
+    "pregunta": "En la terminología de búsqueda, ¿qué define a un “nodo cerrado”?",
+    "opciones": [
+      "a) Representa un estado descartado por inconsistencias heurísticas.",
+      "b) Se han aplicado sobre él todos los operadores posibles.",
+      "c) Ha alcanzado el límite máximo de profundidad establecido.",
+      "d) Corresponde a un nodo terminal sin sucesores válidos."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuál es una desventaja notable de representar el conocimiento mediante vectores\ndensos en un espacio de alta dimensión (Embeddings)?",
+    "opciones": [
+      "a) Requieren obligatoriamente el diseño manual de ontologías jerárquicas complejas\nantes de procesar el texto.",
+      "b) Representan las palabras únicamente como variables booleanas aisladas en espacios\nde dimensiones reducidas.",
+      "c) Actúan como \"cajas negras\", lo cual dificulta la interpretación exacta de qué\nconocimiento ha sido capturado.",
+      "d) Son incapaces de capturar similitudes semánticas de forma automática a partir de\ngrandes volúmenes de datos."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Qué representan formalmente los nodos y los arcos en una estructura de Redes\nSemánticas?",
+    "opciones": [
+      "a) Los nodos representan los algoritmos de búsqueda y los arcos definen los límites de\nmemoria física.",
+      "b) Los nodos representan variables booleanas vacías y los arcos las restricciones de un\nproblema CSP.",
+      "c) Los nodos representan conceptos u objetos y los arcos establecen las relaciones entre\nellos.",
+      "d) Los nodos representan las funciones heurísticas y los arcos los operadores de\nenfriamiento simétrico."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Cuál es el objetivo de búsqueda del algoritmo Equilibrio de Nash?",
+    "opciones": [
+      "a) Buscar una estrategia donde ningún jugador se beneficie unilateralmente cambiando su\nestrategia",
+      "b) Aprender la estrategia óptima explorando el entorno obteniendo recompensas o\npenalizaciones.",
+      "c) Encontrar un acuerdo cooperativo donde todos los participantes maximicen el\nbeneficio colectivo.",
+      "d) Maximizar las ganancias individuales ignorando por completo las decisiones o\nmovimientos de los rivales."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Cuál es el objetivo principal del marco Minimax en el aprendizaje adversarial\naplicado a la ciberseguridad?",
+    "opciones": [
+      "a) Eliminar por completo las brechas de seguridad implementando sistemas\nautomatizados de cifrado simétrico avanzado.",
+      "b) Maximizar el éxito de la IA atacante para descubrir vulnerabilidades críticas mediante\nun aprendizaje continuo",
+      "c) Lograr un acuerdo cooperativo donde ambas inteligencias artificiales coordinen\nacciones para evitar daños mutuos.",
+      "d) Entrenar redes neuronales contra ataques maliciosos, para que una IA defensora\naprenda a resistir esos ataques."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Cómo se complementan la teoría de juegos y los algoritmos de búsqueda?",
+    "opciones": [
+      "a) La teoría de juegos optimiza la memoria física y la búsqueda reemplaza los modelos\nestadísticos.",
+      "b) La teoría de juegos simula los tableros y la búsqueda define las fórmulas matemáticas\nde equilibrio.",
+      "c) La teoría de juegos elimina opciones perjudiciales y la búsqueda restringe la cantidad\nde rivales.",
+      "d) La teoría de juegos aporta el marco matemático y la búsqueda es la herramienta para\nexplorar acciones."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Cuál es el objetivo principal de los algoritmos de búsqueda en sistemas multi-\nagente?",
+    "opciones": [
+      "a) Eliminar la comunicación entre agentes para evitar conflictos.",
+      "b) Permitir que los agentes anticipen acciones y optimicen estrategias.",
+      "c) Reducir el número de agentes en el sistema automáticamente.",
+      "d) Sustituir completamente la teoría de juegos en la IA."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué se logra a nivel interno en un Modelo de Lenguaje (LLMs) al alcanzar un\nEquilibrio de Nash mediante el \"juego del consenso\"?",
+    "opciones": [
+      "a) La desconexión segura de los módulos de aprendizaje supervisado durante la etapa de\nproducción.",
+      "b) Una reducción drástica en el tiempo de procesamiento de datos estructurados dentro\ndel servidor.",
+      "c) La automatización completa del flujo de actualización de sus parámetros en la base de\nconocimientos.",
+      "d) Una mayor precisión y consistencia interna al alinear sus respuestas generativas y\ndiscriminatorias."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Por qué la teoría de juegos es importante en los sistemas multi-agente de IA?",
+    "opciones": [
+      "a) Porque permite que todos los agentes tengan siempre los mismos objetivos.",
+      "b) Porque ayuda a modelar cooperación y competencia entre agentes inteligentes.",
+      "c) Porque elimina la necesidad de usar algoritmos de búsqueda.",
+      "d) Porque garantiza que ningún agente pueda cometer errores."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Cómo se define formalmente la disciplina de la Ingeniería del Conocimiento dentro\ndel campo de la Inteligencia Artificial?",
+    "opciones": [
+      "a) Como la ciencia computacional enfocada en estructurar bases de datos relacionales\npara almacenar registros de servidores.",
+      "b) Como la rama encargada de capturar, modelar y formalizar el conocimiento humano\npara representarlo en un software.",
+      "c) Como el conjunto de técnicas estadísticas avanzadas orientadas a la optimización de\nalgoritmos de visión por computadora.",
+      "d) Como el proceso automatizado de recolección de macrodatos web para su posterior\nanálisis con redes neuronales densas."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 70,
+    "pregunta": "Dentro de los Sistemas Basados en el Conocimiento, ¿qué tipo de información\nconstituye el componente denominado Hechos de la Base de Conocimiento?",
+    "opciones": [
+      "a) Directrices heurísticas en formato condicional que describen los procesos lógicos y\nsubjetivos del especialista.",
+      "b) Datos de control de bajo nivel que permiten la comunicación directa entre los\ncomponentes lógicos del hardware.",
+      "c) Conocimiento estático sobre el dominio en cuestión que representa certezas ya\nvalidadas dentro del entorno real.",
+      "d) Códigos fuente estructurados en lenguajes orientados a objetos que ejecutan las\nrutinas operativas del software."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 71,
+    "pregunta": "En el ámbito de los Sistemas Basados en el Conocimiento, ¿cuál es la orientación\nmetodológica que define al proceso de Encadenamiento Hacia Adelante del motor\nde inferencia?",
+    "opciones": [
+      "a) Está orientado estrictamente a las metas, por lo que evalúa una hipótesis preliminar\nconsultando todas las variables previas.",
+      "b) Está orientado a la reingeniería de software, por lo que reescribe la sintaxis del\nprograma de forma completamente autónoma.",
+      "c) Está orientado a las interfaces de usuario, por lo que adapta el flujo del sistema visual\nsegún el perfil del operador técnico.",
+      "d) Está orientado a los datos, por lo que parte de la información conocida y aplica reglas\npara obtener conclusiones nuevas."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 72,
+    "pregunta": "Durante el ciclo de vida del Proceso de la Ingeniería del Conocimiento, ¿por qué\nrazón la fase de Adquisición del Conocimiento es catalogada históricamente como un\n\"cuello de botella\"?",
+    "opciones": [
+      "a) Debido a la falta de herramientas de hardware capaces de compilar las reglas\nalgorítmicas con la rapidez que el mercado requiere.",
+      "b) Debido a la complejidad inherente que representa el extraer, estructurar y formalizar\nel saber desde expertos humanos u otras fuentes.",
+      "c) Debido a la incompatibilidad lógica que surge al conectar los sistemas expertos clásicos\ncon la arquitectura de la web semántica.",
+      "d) Debido a la obligatoriedad de utilizar grandes volúmenes de datos masivos para poder\niniciar con el diseño del esquema del sistema."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 73,
+    "pregunta": "En el contexto de la Representación del Conocimiento, ¿qué es una Ontología dentro\ndel diseño de sistemas de Inteligencia Artificial simbólica?",
+    "opciones": [
+      "a) Una especificación formal y explícita de una conceptualización que resulta crucial para\nel desarrollo de la web semántica.",
+      "b) Una función matemática que calcula la probabilidad de éxito de una regla lógica en\nentornos operativos altamente ambiguos.",
+      "c) Una estructura secuencial de almacenamiento que organiza la información\nexclusivamente mediante vectores y matrices numéricas.",
+      "d) Una técnica de programación orientada a objetos que define la asignación de\nmemoria principal a los atributos del sistema."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 74,
+    "pregunta": "Dentro de las etapas del Proceso de la Ingeniería del Conocimiento, ¿en qué consiste\nla actividad específica de Validación de un sistema experto?",
+    "opciones": [
+      "a) En comprobar detalladamente que el código fuente no presenta fallas de compilación\nni errores de sintaxis en su arquitectura.",
+      "b) En demostrar formalmente ante un auditor informático que las reglas lógicas se\nejecutan con un consumo mínimo de hardware.",
+      "c) En certificar con la supervisión de un experto humano que el sistema efectivamente\nresuelve el problema para el cual se diseñó.",
+      "d) En encriptar la base de conocimiento para evitar modificaciones no autorizadas por\nparte de agentes externos al desarrollo."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué elemento principal diferencia a la Lógica de Primer Orden respecto a la Lógica\nProposicional para la representación del conocimiento?",
+    "opciones": [
+      "a) La evaluación exclusiva mediante enunciados verdaderos o falsos.",
+      "b) La incorporación básica de conectores lógicos como Y, O y NO.",
+      "c) La introducción de predicados, funciones y cuantificadores.",
+      "d) La capacidad de calcular probabilidades con base en evidencias."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Cuál es la característica central de la técnica de representación del conocimiento\nconocida como \"Marcos\" (Frames)?",
+    "opciones": [
+      "a) Representan hechos aislados usando reglas lógicas deductivas.",
+      "b) Calculan probabilidades a posteriori frente a una incertidumbre.",
+      "c) Modelan objetos mediante estructuras con ranuras y atributos.",
+      "d) Conectan conceptos usando grafos para crear redes taxonómicas."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Para qué tipo de problemas es más adecuada la implementación de Redes\nBayesianas dentro de la inteligencia artificial?",
+    "opciones": [
+      "a) Para verificar formalmente sistemas lógicos en dominios muy pequeños.",
+      "b) Para estructurar diccionarios precisos orientados a la Web Semántica.",
+      "c) Para realizar diagnósticos médicos basados en inferencias estadísticas.",
+      "d) Para modelar jerarquías visuales directas entre mamíferos y animales."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Cuál es una de las principales desventajas de utilizar \"Embeddings\"\n(Representaciones Distribuidas)?",
+    "opciones": [
+      "a) Requieren la construcción manual y exhaustiva de esquemas conceptuales.",
+      "b) Suelen presentar conflictos lógicos difíciles de gestionar manualmente.",
+      "c) Generan redes de significado que frecuentemente resultan muy ambiguas.",
+      "d) Funcionan como cajas negras, dificultando interpretar su conocimiento."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 79,
+    "pregunta": "En el contexto de las técnicas modernas e híbridas, ¿cómo se define formalmente a\nuna \"Ontología\" en este campo?",
+    "opciones": [
+      "a) Es una red neuronal profunda diseñada para procesar lenguaje natural.",
+      "b) Es un conjunto de reglas heurísticas basadas en experiencia de humanos.",
+      "c) Es una gran base de conocimiento probabilístico sobre entidades aisladas.",
+      "d) Es una especificación explícita y formal de una conceptualización dada."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué técnica es la más recomendable si se desea capturar el conocimiento de un\nexperto humano?",
+    "opciones": [
+      "a) Integrar grafos de conocimiento a escala para múltiples fuentes de datos.",
+      "b) Emplear representaciones distribuidas o embeddings en altas dimensiones.",
+      "c) Utilizar reglas de producción propias de los sistemas expertos clásicos.",
+      "d) Diseñar redes bayesianas para calcular probabilidades de eventos nuevos."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cómo se implementa típicamente un agente reactivo puro?",
+    "opciones": [
+      "a) Mediante redes neuronales recurrentes",
+      "b) Con un conjunto de reglas condición-acción (if-then)",
+      "c) Usando un modelo completo del mundo",
+      "d) A través de algoritmos genéticos complejos"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Qué ventaja tiene un agente reactivo puro?",
+    "opciones": [
+      "a) Puede aprender de experiencias pasadas",
+      "b) Es muy rápido y simple de diseñar",
+      "c) Realiza planes a largo plazo",
+      "d) Mantiene un estado interno detallado"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué desventaja presenta el uso del agente reactivo puro?",
+    "opciones": [
+      "a) Consume demasiada memoria",
+      "b) No puede ser implementado en robots",
+      "c) Tiene inteligencia limitada y no puede aprender",
+      "d) Requiere grandes cantidades de datos etiquetados"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué característica distingue a un agente reactivo con estado de un agente reactivo\npuro?",
+    "opciones": [
+      "a) No utiliza sensores",
+      "b) Mantiene un estado interno sobre el entorno",
+      "c) Actúa solo con base en objetivos futuros",
+      "d) Requiere planificación previa de cada acción"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 85,
+    "pregunta": "Según el Manifiesto Reactivo, ¿qué significa que un sistema sea \"responsivo\"?",
+    "opciones": [
+      "a) Que solo responde a mensajes internos",
+      "b) Que responde de manera rápida y consistente",
+      "c) Que funciona únicamente con cargas bajas",
+      "d) Que ignora fallos para seguir operando"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué atributo de un sistema reactivo permite que siga siendo responsivo incluso\nante fallos?",
+    "opciones": [
+      "a) Elasticidad",
+      "b) Orientación a mensajes",
+      "c) Resiliencia",
+      "d) Simplicidad de código"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué permite la elasticidad en un sistema reactivo?",
+    "opciones": [
+      "a) Reducir el uso de mensajes",
+      "b) Escalar recursos automáticamente según la carga",
+      "c) Eliminar la necesidad de servidores",
+      "d) Funcionar solo con un usuario a la vez"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué tendencia actual combina capas reactivas con capas deliberativas en\narquitecturas de IA?",
+    "opciones": [
+      "a) Agentes exclusivamente basados en reglas",
+      "b) Arquitecturas híbridas como las de subsumción de Rodney Brooks",
+      "c) Sistemas puramente orientados a mensajes sin estado",
+      "d) Agentes que solo usan planificación sin percepción"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Cuál es el propósito fundamental de un Sistema Basado en Reglas (SBR) dentro del\ncampo de la Inteligencia Artificial?",
+    "opciones": [
+      "a) Desarrollar de forma autónoma nuevos algoritmos inspirados en el comportamiento\nbiológico neuronal.",
+      "b) Emular el proceso de toma de decisiones de un experto humano mediante un\nconjunto de reglas fijas.",
+      "c) Automatizar el procesamiento masivo de datos no estructurados provenientes de\nredes complejas.",
+      "d) Optimizar la velocidad de"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 90,
+    "pregunta": "En la arquitectura de un Sistema Basado en Reglas (SBR), ¿cuál es la función principal\nque cumple la Base de Hechos?",
+    "opciones": [
+      "a) Almacenar los datos de entrada o las condiciones iniciales detectadas en un momento\nespecífico.",
+      "b) Definir la lógica formal que conecta las condiciones operativas con las acciones del\nsistema.",
+      "c) Coordinar de manera secuencial la ejecución de los diferentes módulos que integran\nel software.",
+      "d) Traducir el lenguaje técnico del motor de inferencia a un formato comprensible para\nel usuario."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 91,
+    "pregunta": "En el ámbito de los Sistemas Basados en Reglas (SBR), ¿cuál es el formato estándar\nen el que se expresan normalmente las reglas lógicas de conocimiento?",
+    "opciones": [
+      "a) SELECCIONAR-DESDE-DONDE",
+      "b) REPETIR-HASTA-QUE",
+      "c) MIENTRAS-HACER-FIN",
+      "d) SI-ENTONCES"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Cómo se define el rol del Motor de Inferencia dentro de la estructura de un Sistema\nBasado en Reglas (SBR)?",
+    "opciones": [
+      "a) Es la base de datos relacional encargada del almacenamiento seguro de las reglas del\ndominio.",
+      "b) Es el componente que interactúa con el usuario para recolectar nuevos síntomas e\nimpresiones.",
+      "c) Es el núcleo del sistema que compara los hechos existentes con las reglas para derivar\nacciones.",
+      "d) Es el módulo encargado de traducir el código fuente a instrucciones de bajo nivel en\nel hardware."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 93,
+    "pregunta": "Al abordar las estrategias del motor de inferencia en un Sistema Basado en Reglas\n(SBR), ¿en qué consiste conceptualmente el encadenamiento hacia adelante?",
+    "opciones": [
+      "a) Parte de una meta preestablecida y verifica hacia atrás si los hechos iniciales la\nsustentan de forma lógica.",
+      "b) Diseña interfaces de usuario más intuitivas que anticipan las necesidades operativas de\nlos expertos.",
+      "c) Parte de los hechos y datos disponibles para aplicar las reglas consecutivamente hasta\nllegar a una conclusión.",
+      "d) Modifica el código de la base de reglas en tiempo real utilizando algoritmos de\noptimización matemática."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 94,
+    "pregunta": "Dentro de las dinámicas del motor de inferencia en un Sistema Basado en Reglas\n(SBR), ¿cuál es la característica que define al encadenamiento hacia atrás?",
+    "opciones": [
+      "a) Evalúa la validez de los hechos iniciales comparándolos con una meta para ver si estos\nla respaldan.",
+      "b) Restablece el estado inicial de la base de datos borrando todos los registros de la\nmemoria de trabajo.",
+      "c) Ejecuta de forma automática todas las acciones de la base de reglas sin considerar los\nhechos de entrada.",
+      "d) Genera un reporte detallado del rendimiento de hardware tras procesar una base de\nconocimientos grande."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Cuál es la premisa fundamental del Razonamiento Basado en Casos (CBR)?",
+    "opciones": [
+      "a) Resolver nuevos problemas utilizando experiencias pasadas almacenadas.",
+      "b) Crear reglas lógicas universales para predecir cualquier comportamiento futuro.",
+      "c) Generar soluciones aleatorias hasta encontrar una que funcione por ensayo y error.",
+      "d) Ignorar los fracasos anteriores para centrarse únicamente en modelos teóricos\nperfectos."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué función cumple la 'Métrica de Similitud' en un sistema?",
+    "opciones": [
+      "a) Determinar el espacio físico que ocupa la base de casos en el disco duro.",
+      "b) Evaluar únicamente la calidad estética de la interfaz del usuario.",
+      "c) Comparar problemas nuevos con casos almacenados para encontrar los más\nparecidos.",
+      "d) Medir el tiempo que tarda el sistema en procesar una consulta de usuario."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 97,
+    "pregunta": "En el ciclo de las REs, ¿cuál es el objetivo de la etapa 'REUSE' (Reutilizar)?",
+    "opciones": [
+      "a) Adaptar la solución del caso recuperado para que encaje en el problema actual.",
+      "b) Borrar los casos antiguos para liberar espacio en la memoria del sistema.",
+      "c) Identificar los síntomas del paciente sin consultar el historial médico.",
+      "d) Buscar en internet soluciones externas que no estén en la base de casos."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué algoritmo se menciona como clave para medir la similitud entre casos?",
+    "opciones": [
+      "a) Búsqueda Binaria en árboles rojos y negros",
+      "b) Ordenamiento de burbuja (Bubble sort)",
+      "c) Algoritmo de Dijkstra para caminos cortos",
+      "d) k-NN (k-Vecinos Más Cercanos)"
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Por qué la 'Calidad de la base' es un desafío crítico para él CBR?",
+    "opciones": [
+      "a) Los casos de alta calidad son ilegibles para los seres humanos.",
+      "b) Los casos obsoletos o irrelevantes pueden llevar a decisiones erróneas.",
+      "c) Una base de alta calidad es demasiado pesada para ser transmitida por internet.",
+      "d) El sistema se vuelve demasiado inteligente y deja de obedecer órdenes."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 100,
+    "pregunta": "Si una solución probada en la fase de 'REVISE' falla, ¿qué debe hacer el\nsistema?",
+    "opciones": [
+      "a) Impedir que el usuario vuelva a usar el sistema para siempre.",
+      "b) Apagar el servidor inmediatamente para evitar daños.",
+      "c) Corregir la solución basándose en los nuevos datos del fallo.",
+      "d) Simular que la solución funcionó para no afectar las estadísticas."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Cuál es un requisito fundamental para la 'Adaptación de soluciones' exitosa\nen?",
+    "opciones": [
+      "a) Que todos los casos previos sean exactamente iguales al actual.",
+      "b) Una conexión a internet de fibra óptica.",
+      "c) Conocimiento profundo del dominio del problema.",
+      "d) Eliminar la base de casos antes de cada nueva consulta."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 102,
+    "pregunta": "En el modelo de las Rs, ¿qué significa que un caso sea 'Retenido'?",
+    "opciones": [
+      "a) Que el caso es tan difícil que el sistema se niega a resolverlo.",
+      "b) Que el caso ha sido censurado por contener información sensible.",
+      "c) Que el procesamiento del caso está pausado debido a un error de red.",
+      "d) Que se guarda en la memoria de casos para ser usado en el futuro."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué modelo emplea principalmente un grafo acíclico dirigido?",
+    "opciones": [
+      "a) Redes bayesianas de probabilidad.",
+      "b) Redes semánticas de conceptos.",
+      "c) Árboles lógicos de decisiones.",
+      "d) Grafos cíclicos de frecuencias."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué son exactamente las redes semánticas según los fundamentos de la\ninteligencia artificial?",
+    "opciones": [
+      "a) Representaciones matemáticas utilizadas exclusivamente para resolverecuaciones\nalgebraicas en sistemas físicos de termodinámica compleja.",
+      "b) Estructuras de bases de datos relacionales diseñadas para almacenar y organizar tablas\ncon millones de registros.",
+      "c) Formas de representar el conocimiento de manera gráfica y estructurada utilizando\ndistintos nodos y enlaces.",
+      "d) Modelos estadísticos secuenciales orientados a predecir valores numéricos futuros\nbasados completamente en el aprendizaje automático."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué función fundamental cumplen los enlaces en redes semánticas?",
+    "opciones": [
+      "a) Mostrar jerarquías de variables.",
+      "b) Factorizar fórmulas de Bayes.",
+      "c) Definir relaciones entre conceptos.",
+      "d) Calcular la probabilidad conjunta."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Cómo se define formalmente una red bayesiana dentro del campo de la\ninteligencia artificial?",
+    "opciones": [
+      "a) Un modelo gráfico probabilístico que representa variables y dependencias mediante\ngrafos acíclicos dirigidos.",
+      "b) Un sistema de aprendizaje automático enfocado en agrupar datos mediante grafos\ncíclicos no dirigidos.",
+      "c) Un algoritmo determinista diseñado para resolver ecuaciones diferenciales mediante\nrepresentaciones de grafos secuenciales.",
+      "d) Un modelo estadístico lineal que evalúa variables independientes mediante tablas de\nfrecuencias absolutas."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 107,
+    "pregunta": "En una red bayesiana, ¿qué representan los nodos?",
+    "opciones": [
+      "a) Conceptos lógicos de herencia.",
+      "b) Variables aleatorias del sistema.",
+      "c) Atributos semánticos del grafo.",
+      "d) Efectos causales del modelo."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Cómo funciona el mecanismo de herencia dentro de la estructura de una\nred\nsemántica?",
+    "opciones": [
+      "a) Los nodos eliminan sus atributos originales al conectarse temporalmente con otros\nelementos del mismo nivel.",
+      "b) Los enlaces cambian de dirección constantemente para evitar la sobrecarga de\ninformación computacional en la red.",
+      "c) Los nodos adquieren automáticamente las propiedades de los conceptos a los que\nestán jerárquicamente conectados.",
+      "d) Las representaciones gráficas ocultan los atributos compartidos para simplificar la\nvisualización general de las tablas condicionales."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué elementos representan los nodos en una red semántica?",
+    "opciones": [
+      "a) Fórmulas matemáticas de cálculo.",
+      "b) Conceptos, objetos o entidades.",
+      "c) Relaciones lógicas de herencia.",
+      "d) Valores numéricos de probabilidad."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Cuál es la función principal de las Tablas de Probabilidad Condicional (CPT)\nen\nestos modelos?",
+    "opciones": [
+      "a) Cuantificar la probabilidad de los estados de un nodo dado el estado de padres.",
+      "b) Calcular la ruta más corta entre los nodos principales de una estructura de red.",
+      "c) Medir la independencia absoluta de cada variable ignorando las dependencias de los\nnodos padre.",
+      "d) Estimar la frecuencia empírica de una variable omitiendo las conexiones del grafo\ndirigido subyacente."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Qué cuantifica una Tabla de Probabilidad Condicional (CPT)?",
+    "opciones": [
+      "a) Longitud de aristas dirigidas.",
+      "b) Índice absoluto de herencia.",
+      "c) Probabilidades según nodos padres.",
+      "d) Dependencias entre conceptos aislados."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué desventaja significativa presentan las redes semánticas frente a otros\nmodelos de representación?",
+    "opciones": [
+      "a) Dificultad notable para representar excepciones lógicas a las reglas generales dentro\nde la estructura.",
+      "b) Imposibilidad absoluta de conectar más de tres nodos en una misma representación\ngráfica bidimensional.",
+      "c) Capacidad nula para procesar relaciones jerárquicas simples entre dos objetos de la\nmisma categoría.",
+      "d) Requerimiento estricto de utilizar lenguajes de programación completamente\nobsoletos para definir los arcos del grafo."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Qué propiedad estructural destaca siempre en las redes semánticas?",
+    "opciones": [
+      "a) Ausencia total de ambigüedad.",
+      "b) La independencia de variables.",
+      "c) La representación de incertidumbre.",
+      "d) La herencia de propiedades."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Cuál de las siguientes es una aplicación común de las redes bayesianas en la\nactualidad?",
+    "opciones": [
+      "a) Creación exclusiva de interfaces gráficas para los sistemas operativos de\ncomputadoras personales.",
+      "b) Modelado de transacciones financieras para la detección de fraudes mediante\nanálisis probabilísticos.",
+      "c) Diseño de hardware y microprocesadores para optimizar la velocidad de cálculo\nmatemático.",
+      "d) Clasificación de imágenes satelitales mediante el uso exclusivo de algoritmos de\naprendizaje profundo supervisado."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Cuál es el propósito principal de la lógica difusa?",
+    "opciones": [
+      "a) Una estructura matemática abstracta que evalúa exclusivamente sentencias\nverdaderas o falsas.",
+      "b) Un modelo estadístico complejo diseñado para predecir eventos futuros con\nprecisión.",
+      "c) Una extensión lógica que permite gestionar adecuadamente conceptos de verdad\nparcial.",
+      "d) Un sistema algorítmico que reemplaza totalmente a la lógica proposicional clásica."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Qué representa una \"variable lingüística\"?",
+    "opciones": [
+      "a) Un valor numérico absoluto que determina el estado binario del sistema.",
+      "b) Una constante matemática utilizada para medir la velocidad de un procesador.",
+      "c) Una función geométrica que calcula el centroide exacto de un polígono.",
+      "d) Un concepto subjetivo que utiliza etiquetas asociadas a los conjuntos difusos."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Cómo se calcula matemáticamente la operación de Intersección (AND) en\nlos conjuntos difusos?",
+    "opciones": [
+      "a) Multiplicando los valores máximos obtenidos en todas las funciones de membresía.",
+      "b) Restando el grado de pertenencia actual del valor máximo absoluto permitido.",
+      "c) Seleccionando el valor máximo entre las diferentes funciones de membresía\nevaluadas.",
+      "d) Escogiendo el valor mínimo entre los distintos grados de membresía calculados."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 118,
+    "pregunta": "En el proceso de Inferencia Difusa, ¿en qué consiste la etapa de\n\"defuzzificación\"?",
+    "opciones": [
+      "a) Dividir un problema complejo en múltiples reglas lógicas de inferencia deductiva.",
+      "b) Recolectar datos ruidosos del entorno para entrenar una red neuronal artificial.",
+      "c) Transformar los grados de membresía lingüísticos en nuevas categorías de entrada.",
+      "d) Convertir el conjunto difuso resultante en un valor numérico final utilizable."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Cuál es una de las principales desventajas o dificultades al usar lógica\ndifusa?",
+    "opciones": [
+      "a) Produce una drástica reducción del voltaje en circuitos integrados de control.",
+      "b) Elimina la necesidad de utilizar sensores físicos dentro del sector industrial.",
+      "c) Genera una explosión inmanejable de reglas al añadir múltiples variables nuevas.",
+      "d) Requiere obligatoriamente modelos probabilísticos para resolver sistemas de control\nlineal simple."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Dónde se aplica la lógica difusa?",
+    "opciones": [
+      "a) En la extracción de combustibles fósiles mediante sistemas de perforación profunda.",
+      "b) En la fabricación de nuevos materiales sintéticos para la industria textil.",
+      "c) En el diseño de complejos algoritmos de cifrado para seguridad bancaria.",
+      "d) En el control de tracción y sistemas de frenos ABS vehiculares."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué estudia la Vida Artificial (ALife)?",
+    "opciones": [
+      "a) La creación de máquinas con conciencia humana",
+      "b) Sistemas artificiales que imitan propiedades de la vida biológica",
+      "c) El desarrollo de algoritmos exclusivos para chatbots",
+      "d) La mejora de interfaces gráficas para simuladores"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 122,
+    "pregunta": "¿En qué se enfoca principalmente la Inteligencia Artificial (I",
+    "opciones": [
+      "a) ?\na) Emular la vida en medios no biológicos",
+      "b) Crear máquinas que realicen tareas que requieren inteligencia humana",
+      "c) Estudiar la reproducción de organismos bioquímicos",
+      "d) Simular únicamente ecosistemas marinos"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Cuál es la diferencia clave entre ALife e IA?",
+    "opciones": [
+      "a) ALife usa datos y algoritmos, mientras que IA imita procesos vitales",
+      "b) ALife busca entender la vida como podría ser, e IA resuelve problemas específicos",
+      "c) ALife solo funciona con hardware, e IA solo con software",
+      "d) ALife se enfoca en problemas éticos, e IA en problemas matemáticos"
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 124,
+    "pregunta": "¿Qué tipo de agente actúa basándose únicamente en la percepción actual sin\nconsiderar la historia previa?",
+    "opciones": [
+      "a) Agente basado en objetivos",
+      "b) Agente con planificación cognitiva",
+      "c) Agente reactivo puro",
+      "d) Agente híbrido con capa deliberativa"
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué se entiende por la propiedad de \"emergencia\" dentro del contexto de\nlos sistemas complejos?",
+    "opciones": [
+      "a) El proceso mediante el cual un sistema colapsa rápidamente debido a un cambio\nimprevisto en sus componentes.",
+      "b) La aparición de características globales que resultan de las interacciones y no están en\nlas partes individuales.",
+      "c) La capacidad que poseen los agentes de un entorno para modificar su\ncomportamiento según sus experiencias.",
+      "d) El diseño estructurado de un patrón ordenado que es controlado exclusivamente por\nun algoritmo externo."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 126,
+    "pregunta": "Dentro de las características de los Sistemas Complejos Adaptativos (SAC),\n¿cómo actúa el mecanismo de retroalimentación?",
+    "opciones": [
+      "a) Permitiendo que las acciones de los agentes alteren el entorno, lo cual a su vez\ncondiciona sus futuras decisiones.",
+      "b) Eliminando por completo la incertidumbre global mediante la programación\ncentralizada de conductas individuales.",
+      "c) Consiguiendo que los elementos reduzcan su diversidad operativa para estabilizar los\ncostos computacionales.",
+      "d) Evitando que las perturbaciones externas afecten el rendimiento óptimo de las\nherramientas de simulación."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Cuál de las siguientes situaciones ejemplifica el concepto de \"no linealidad\"\nen un sistema complejo?",
+    "opciones": [
+      "a) Un mercado financiero donde las decisiones de compra provocan variaciones\nperfectamente proporcionales en el costo.",
+      "b) Una red de internet que experimenta un colapso masivo en su infraestructura debido a\nuna alteración muy pequeña.",
+      "c) Un ecosistema natural donde el número de depredadores se mantiene siempre\nidéntico al número de presas activas.",
+      "d) Una simulación por computadora donde cada regla asignada a los agentes produce un\nresultado predecible y fijo."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 128,
+    "pregunta": "Tomando en cuenta los entornos del mundo real, ¿cuál de los siguientes\ngrupos contiene únicamente ejemplos de sistemas complejos?",
+    "opciones": [
+      "a) El cerebro humano, el clima terrestre, los mercados económicos y las dinámicas de\nopinión de las redes sociales.",
+      "b) Un reloj de péndulo mecánico, un circuito eléctrico cerrado, una calculadora digital y\nun motor de combustión externa.",
+      "c) Un procesador de textos de escritorio, una base de datos estática, un libro impreso y\nun manual de usuario técnico.",
+      "d) Una balanza de platillos de alta precisión, un termómetro de mercurio lineal, un\npéndulo simple y un farol público."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 129,
+    "pregunta": "Al observar la interacción de los seres vivos en la naturaleza, ¿qué fenómeno\ndescribe un Sistema Complejo Adaptativo (SAC)?",
+    "opciones": [
+      "a) Una colonia de hormigas donde emergen patrones globales organizados a partir de las\nacciones de agentes individuales.",
+      "b) Una roca de gran tamaño que se fragmenta en trozos pequeños debido al impacto de\nla erosión constante del viento.",
+      "c) Una corriente de agua subterránea que fluye cuesta abajo por canales fijos y\npredecibles sin cambiar su trayectoria.",
+      "d) Un banco de minerales inertes depositados en el fondo del océano que se mantienen\naislados de la actividad biológica."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Qué diferencia fundamental existe entre un sistema complejo general y un\nSistema Complejo Adaptativo (SAC)?",
+    "opciones": [
+      "a) Los SAC incluyen componentes fijos que impiden la transformación de las estructuras\nglobales organizadas.",
+      "b) Los SAC poseen agentes con la capacidad individual de aprender, evolucionar y\najustarse a su entorno.",
+      "c) Los SAC rechazan la presencia de elementos heterogéneos para asegurar la resiliencia\nante una crisis.",
+      "d) Los SAC se aplican exclusivamente al campo del modelado de fluidos y fenómenos\nmeteorológicos extremos."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Cuál es el propósito primordial del proceso de minería de datos?",
+    "opciones": [
+      "a) Automatizar la recolección masiva de registros en los almacenes para disminuir los\ncostos de infraestructura informática.",
+      "b) Transformar los conjuntos de datos en información de alto valor que sirva de apoyo en\nla toma de decisiones estratégicas.",
+      "c) Diseñar la arquitectura física de los sistemas gestores de bases de datos para optimizar\nlas consultas estructuradas.",
+      "d) Reemplazar por completo los métodos de análisis estadístico tradicional mediante\nalgoritmos exclusivos de deep learning."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 132,
+    "pregunta": "¿En el marco del proceso típico CRISP-DM en qué consiste la fase denominada\n“Preparación de datos”?",
+    "opciones": [
+      "a) En recopilar, explorar y documentar las primeras observaciones obtenidas directamente\ndesde las distintas fuentes.",
+      "b) En validar de manera rigurosa los resultados predictivos generados tras la aplicación de\nalgoritmos avanzados.",
+      "c) En realizar las tareas de limpieza y transformación de los registros recolectados para su\nposterior modelado en la etapa siguiente.",
+      "d) En establecer formalmente los objetivos del negocio y traducirlos en un problema\ntécnico de minería de datos."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 133,
+    "pregunta": "Cuando una empresa busca agrupar datos similares para realizar una\nsegmentación de clientes, ¿qué técnica emplearías?",
+    "opciones": [
+      "a) Clasificación.",
+      "b) Asociación.",
+      "c) Aprendizaje.",
+      "d) Clustering."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 134,
+    "pregunta": "Dentro de las aplicaciones en el área de finanzas que se detallan en el material,\n¿cuáles son los usos principales descritos?",
+    "opciones": [
+      "a) La automatización de la contabilidad empresarial y el diseño de presupuestos anuales\nbasados en gastos previos.",
+      "b) La optimización de las cadenas de suministro globales y la fijación dinámica de precios\nsegún la demanda.",
+      "c) La evaluación de los riesgos crediticios y la detección oportuna de fraudes en el uso de\ntarjetas de crédito.",
+      "d) La proyección de epidemias locales y el diagnóstico asistido por modelos avanzados de\ninteligencia artificial."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Cuál de las siguientes librerías de programación pertenece específicamente a\nlas herramientas populares de Python mencionadas en la presentación?",
+    "opciones": [
+      "a) ggplot2.",
+      "b) WEKA.",
+      "c) Pandas.",
+      "d) Tableau."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Qué conclusión destaca el documento respecto a la relevancia de la minería\nde datos en la era del Big Data?",
+    "opciones": [
+      "a) Que permite sustituir los sistemas de almacenamiento relacional mediante la\nimplementación de tableros visuales.",
+      "b) Que reduce la necesidad de aplicar algoritmos complejos gracias a la simplificación de\nlas estructuras de red.",
+      "c) Que es clave porque el volumen de información exige métodos automatizados para\npoder extraer el conocimiento.",
+      "d) Que garantiza la seguridad absoluta de las transacciones financieras al eliminar los\nerrores de origen humano."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 137,
+    "pregunta": "Al aplicar la técnica de \"Reglas de asociación\", ¿cuál es el objetivo primordial\nque se busca alcanzar dentro de los conjuntos de datos?",
+    "opciones": [
+      "a) Organizar de forma automática todos los elementos de la base de datos dentro de\ncategorías previamente definidas.",
+      "b) Identificar relaciones o dependencias entre variables, bajo la premisa de que quienes\ncompran X también adquieren algo de tipo Y.",
+      "c) Agrupar grandes colecciones de registros heterogéneos basándose únicamente en sus\ncaracterísticas o propiedades comunes.",
+      "d) Modelar patrones altamente complejos que no pueden ser resueltos a través de\nmetodologías estadísticas tradicionales."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Qué herramienta o plataforma específica se menciona en el texto con el\npropósito de realizar la \"Visualización de resultados\"?",
+    "opciones": [
+      "a) Scikit-learn.",
+      "b) Power BI.",
+      "c) TensorFlow.",
+      "d) WEKA."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Cuál es el objetivo principal que persigue la lingüística computacional\ncomo disciplina interdisciplinaria?",
+    "opciones": [
+      "a) Diseñar algoritmos y modelos para que las máquinas procesen, entiendan y generen\nlenguaje natural.",
+      "b) Estudiar la evolución de los idiomas antiguos sin la intervención de herramientas de\ncomputación.",
+      "c) Analizar las interconexiones en redes sociales para modelar dinámicas de opinión\npública digital.",
+      "d) Desarrollar sistemas operativos comerciales basados únicamente en el procesamiento\nde voz humana."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué tarea específica forma parte del área del Procesamiento del Lenguaje\nNatural (PLN/NLP)?",
+    "opciones": [
+      "a) El modelado matemático de mercados financieros sometidos a crisis económicas\nimprevistas.",
+      "b) El reconocimiento de entidades nombradas junto con el análisis sintáctico y semántico.",
+      "c) La programación de protocolos de comunicación capaces de mitigar la congestión en\ninternet.",
+      "d) La creación de simulaciones basadas en agentes que compiten bajo la teoría de los\njuegos."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 141,
+    "pregunta": "En el contexto del modelado moderno del lenguaje, ¿cuál es el enfoque\nprincipal para que las máquinas procesen el texto?",
+    "opciones": [
+      "a) El uso de modelos estadísticos avanzados y de aprendizaje automático para extraer\npatrones de la comunicación humana.",
+      "b) El diseño exclusivo de diccionarios de sinónimos escritos a mano para traducir textos\npalabra por palabra sin variaciones.",
+      "c) La programación de sistemas rígidos que rechazan la variabilidad cultural y la\nevolución natural de las palabras del idioma.",
+      "d) El análisis de la acústica ambiental para anular las señales sonoras redundantes que\nviajan a través de los canales digitales."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 142,
+    "pregunta": "¿A qué área de la lingüística computacional corresponden el desarrollo y\noptimización de asistentes como Siri o Alexa?",
+    "opciones": [
+      "a) A la fonética computacional encargada exclusivamente de la traducción automática\ntextual.",
+      "b) Al diseño de sistemas de diálogo y chatbots enfocados en la gestión de\nconversaciones.",
+      "c) A la lingüística de corpus orientada al análisis estadístico de grandes conjuntos de\ndatos.",
+      "d) Al desarrollo de algoritmos evolutivos inspirados directamente en la selección natural."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 143,
+    "pregunta": "Cuando un sistema informático confunde el significado de la palabra\n\"Banco\", ¿qué desafío actual está experimentando?",
+    "opciones": [
+      "a) El problema de la pragmática cultural al intentar descifrar el uso del sarcasmo en el\ntexto.",
+      "b) La ambigüedad lingüística que dificulta determinar el sentido correcto según el\ncontexto.",
+      "c) El sesgo ético derivado del uso de datos de entrenamiento deficientes en los grandes\nmodelos.",
+      "d) La falta de escalabilidad computacional al procesar estructuras gramaticales de alta\ndensidad."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 144,
+    "pregunta": "¿Qué herramienta conceptual o recurso masivo se utiliza habitualmente en\nesta disciplina para analizar y extraer patrones lingüísticos?",
+    "opciones": [
+      "a) Simulaciones lógicas cerradas que impiden a las máquinas interactuar con el entorno\nconversacional del usuario.",
+      "b) Grandes conjuntos de datos textuales del lenguaje real llamados corpus junto con\nmodelos de representación de palabras.",
+      "c) Redes de transporte urbano diseñadas para coordinar el movimiento físico de agentes\ndentro de una ciudad moderna.",
+      "d) Algoritmos de optimización económica enfocados únicamente en la reducción del\ngasto computacional de los servidores."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Cómo se define fundamentalmente el Aprendizaje de Máquina (Machine\nLearning) dentro de la IA?",
+    "opciones": [
+      "a) Rama de la IA que desarrolla algoritmos para que las computadoras aprendan de datos\nsin ser programadas explícitamente.",
+      "b) Rama de la IA que desarrolla arquitecturas para que los ordenadores operen con\nestrictas reglas fijas de programación.",
+      "c) Área de la informática dedicada a construir inmensas bases de datos relacionales para\nel almacenamiento de información empresarial.",
+      "d) Área de la tecnología enfocada en el diseño de atractivas interfaces gráficas de usuario\npara modernas aplicaciones móviles."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Cuál es la principal diferencia algorítmica expuesta entre los modelos de\nMachine Learning y Deep Learning?",
+    "opciones": [
+      "a) El Machine Learning utiliza frecuentemente complejas redes neuronales, mientras que\nel Deep Learning se fundamenta en árboles de decisión.",
+      "b) El Machine Learning emplea árboles de decisión clásicos, mientras que el Deep\nLearning se basa en redes neuronales complejas.",
+      "c) El Machine Learning procesa exclusivamente señales de audio, mientras que el Deep\nLearning analiza únicamente fotografías digitales de alta resolución.",
+      "d) El Machine Learning requiere siempre conexión a internet remota, mientras que el\nDeep Learning opera de manera estrictamente local."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Qué característica analítica principal es la que define rigurosamente al\nmodelo de Aprendizaje Supervisado?",
+    "opciones": [
+      "a) El algoritmo computacional aprende identificando patrones complejos a partir de un\nconjunto de datos que previamente ha sido etiquetado.",
+      "b) El algoritmo matemático busca agrupaciones ocultas utilizando una gran cantidad de\ninformación histórica que no posee ninguna etiqueta previa.",
+      "c) El sistema informático se entrena exclusivamente mediante la recopilación continua\nde datos provenientes de sensores de temperatura ambiental físicos.",
+      "d) El modelo analítico mejora su rendimiento basándose únicamente en el cambio\nautomático de los componentes de hardware del servidor."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 148,
+    "pregunta": "¿Cuáles son los algoritmos representativos que comúnmente se emplean\ndentro de la disciplina del Aprendizaje No Supervisado?",
+    "opciones": [
+      "a) La regresión lineal múltiple y los complejos árboles de decisión categóricos son los\nmétodos principales utilizados en esta disciplina.",
+      "b) El reconocido algoritmo K-means y el Análisis de Componentes Principales son los\nmétodos matemáticos más utilizados en este enfoque.",
+      "c) La criptografía de extremo a extremo y los complejos protocolos de enrutamiento\ndinámico son las técnicas fundamentales de interconexión.",
+      "d) El procesamiento de transacciones financieras y la gestión de grandes bases de datos\ndistribuidas son las funciones centrales implementadas."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 149,
+    "pregunta": "¿En qué mecanismo basa su funcionamiento el paradigma conocido como\nAprendizaje por Refuerzo (Reinforcement Learning)?",
+    "opciones": [
+      "a) El modelo inteligente aprende sus tareas a través de un sistema dinámico basado\nexclusivamente en dar recompensas y castigos.",
+      "b) El sistema algorítmico aprende a clasificar los datos utilizando una base de información\nhistórica que ha sido previamente categorizada.",
+      "c) El programa informático optimiza la duración de la batería reduciendo\nprogresivamente el nivel de brillo visual en los monitores.",
+      "d) El software de gestión administra automáticamente las credenciales de acceso para\ngarantizar la total seguridad en redes locales corporativas."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Qué métrica de evaluación específica se recomienda utilizar de forma\ncomún para medir problemas de regresión matemática?",
+    "opciones": [
+      "a) La exactitud y la precisión son métricas estadísticas que han sido diseñadas de forma\nexclusiva para evaluar problemas continuos.",
+      "b) El error cuadrático medio es la medida estadística estándar e idónea para poder\nevaluar adecuadamente las tareas de regresión.",
+      "c) La velocidad en gigahercios del moderno procesador central es el único indicador\nfiable empleado para medir el rendimiento absoluto.",
+      "d) El tamaño total en disco del archivo de instalación determina de manera innegable la\ncalidad predictiva de todo el sistema."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 151,
+    "pregunta": "¿Cuál es el objetivo principal del Procesamiento del Lenguaje Natural (PLN)?",
+    "opciones": [
+      "a) Crear hardware especializado para el procesamiento de gráficos en computadoras.",
+      "b) Lograr que las máquinas entiendan, interpreten y generen lenguaje humano.",
+      "c) Traducir de forma exclusiva códigos de programación entre distintos lenguajes.",
+      "d) Estudiar la psicología humana a través de interfaces de realidad virtual."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 152,
+    "pregunta": "Dentro del procesamiento básico de texto, ¿en qué consiste la técnica\nconocida como tokenización?",
+    "opciones": [
+      "a) En dividir un texto completo en partes más pequeñas como palabras o frases.",
+      "b) En traducir automáticamente un documento entero de un idioma hacia otro.",
+      "c) En identificar la categoría gramatical exacta de cada palabra en la oración.",
+      "d) En agrupar varios textos distintos para formar un único documento resumido."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 153,
+    "pregunta": "¿Qué proceso del PLN se encarga de reducir las palabras a su forma base, lema\no raíz matemática?",
+    "opciones": [
+      "a) La extracción de entidades nombradas que identifica personas y lugares.",
+      "b) El etiquetado gramatical que asigna categorías a las partes del discurso.",
+      "c) La lematización y el stemming aplicados al procesamiento de los textos.",
+      "d) La generación de texto coherente mediante redes neuronales recurrentes."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 154,
+    "pregunta": "¿Qué técnica del análisis semántico se utiliza para reconocer nombres de\npersonas, lugares u organizaciones en una oración?",
+    "opciones": [
+      "a) El reconocimiento de intenciones ocultas en las consultas de los usuarios.",
+      "b) La extracción de entidades nombradas a partir de documentos textuales.",
+      "c) La conversión de palabras en representaciones vectoriales densas continuas.",
+      "d) El análisis de dependencias que identifica relaciones entre las palabras."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 155,
+    "pregunta": "En los métodos tradicionales de PLN, ¿qué representa la métrica estadística\nconocida como TF-IDF?",
+    "opciones": [
+      "a) Un modelo que predice la siguiente palabra basándose en la secuencia previa.",
+      "b) Una medida que evalúa la importancia de una palabra dentro de un documento.",
+      "c) Una arquitectura de red neuronal profunda especializada en procesar audios.",
+      "d) Un algoritmo de traducción automática utilizado en los motores de búsqueda."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 156,
+    "pregunta": "¿Cuál fue la innovación clave introducida durante la revolución de la\narquitectura Transformer en el año 2018?",
+    "opciones": [
+      "a) El mecanismo de atención propia o \"Self-Attention\" para manejar el contexto.",
+      "b) Las redes neuronales convolucionales aplicadas a la clasificación del texto.",
+      "c) El uso exclusivo de reglas gramaticales para entender las frases largas.",
+      "d) La introducción de los modelos ocultos de Markov para procesar lenguaje."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 157,
+    "pregunta": "Según las arquitecturas modernas especializadas, ¿para qué tipo de tareas es\nideal un modelo \"Encoder-only\" como BERT?",
+    "opciones": [
+      "a) Exclusivamente para la generación de texto libre y el autocompletado.",
+      "b) Principalmente para traducir textos largos de forma automática y rápida.",
+      "c) Para tareas de clasificación de texto, extracción de entidades y respuestas.",
+      "d) Para generar imágenes a partir de descripciones textuales detalladas."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 158,
+    "pregunta": "¿Cómo se define el análisis de sentimientos dentro del campo de la\nInteligencia Artificial y el PLN?",
+    "opciones": [
+      "a) Es un modelo que traduce emociones humanas directamente a código binario.",
+      "b) Es una tecnología que identifica y cuantifica el tono emocional de un texto.",
+      "c) Es un sistema diseñado para generar reseñas automáticas sobre un producto.",
+      "d) Es una herramienta estadística que cuenta palabras repetidas en un ensayo."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 159,
+    "pregunta": "En el análisis de sentimientos, ¿cómo funciona principalmente el enfoque\nconocido como \"basado en reglas\"?",
+    "opciones": [
+      "a) Entrena algoritmos con miles de textos para descubrir patrones lingüísticos.",
+      "b) Combina modelos de machine learning con bases de datos relacionales puras.",
+      "c) Utiliza diccionarios de palabras que tienen puntuaciones predefinidas fijas.",
+      "d) Transforma las oraciones en representaciones vectoriales multidimensionales."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 160,
+    "pregunta": "¿Qué identifica específicamente el análisis de sentimientos clasificado como\n\"Basado en Aspectos (ABS",
+    "opciones": [
+      "a) \"?\na) El objetivo o intención final oculta detrás del mensaje emitido por el usuario.",
+      "b) La polaridad general y absoluta de un texto completo, sin mayores detalles.",
+      "c) Las emociones humanas básicas como la alegría, la tristeza o la frustración.",
+      "d) El sentimiento dirigido hacia características específicas de un producto o servicio."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 161,
+    "pregunta": "¿Cuál de las siguientes opciones representa un desafío y limitación actual para\nlos sistemas de análisis de sentimientos?",
+    "opciones": [
+      "a) La imposibilidad de conectar los modelos con bases de datos en la nube.",
+      "b) La correcta interpretación del sarcasmo, la ironía y el contexto lingüístico.",
+      "c) La falta absoluta de lenguajes de programación adecuados para este campo.",
+      "d) La lentitud de las computadoras modernas para procesar textos cortos simples."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 162,
+    "pregunta": "Dentro de las técnicas de aprendizaje automático para PLN, ¿qué son los\nconocidos \"Word Embeddings\"?",
+    "opciones": [
+      "a) Representaciones vectoriales de palabras que capturan relaciones semánticas.",
+      "b) Clasificadores estadísticos tradicionales basados en el conteo de frecuencias.",
+      "c) Redes neuronales diseñadas exclusivamente para procesar señales de audio.",
+      "d) Algoritmos que dividen los textos en fragmentos más pequeños y manejables."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 163,
+    "pregunta": "En el contexto de las optimizaciones recientes para arquitecturas modernas en\nPLN, ¿cuál es el objetivo principal de la técnica conocida como \"Quantización\"?",
+    "opciones": [
+      "a) Reducir la precisión numérica de los parámetros para optimizar la inferencia.",
+      "b) Entrenar múltiples modelos expertos distribuidos para dividir el procesamiento.",
+      "c) Traducir lenguajes de programación antiguos hacia códigos de fuente modernos.",
+      "d) Generar imágenes de muy alta resolución utilizando solo descripciones textuales."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 164,
+    "pregunta": "¿Qué tipo de arquitectura moderna especializada utiliza el modelo GPT para\nrealizar sus tareas principales?",
+    "opciones": [
+      "a) Arquitectura \"Encoder-Decoder\", ideal para traducir y resumir documentos.",
+      "b) Arquitectura \"Encoder-only\", diseñada para la clasificación de textos cortos.",
+      "c) Arquitectura \"Decoder-only\", enfocada en la generación y el completado de texto.",
+      "d) Arquitectura tradicional basada puramente en sistemas expertos y reglas fijas."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 165,
+    "pregunta": "En la estructura detallada de la arquitectura Transformer, ¿qué característica\ndefine a la red \"Feed-Forward\"?",
+    "opciones": [
+      "a) Aplica dos capas lineales con activación no lineal independientemente a cada posición.",
+      "b) Conecta todos los tokens entre sí usando múltiples perspectivas de atención paralela.",
+      "c) Normaliza matemáticamente la entrada después de pasar por cada bloque recurrente.",
+      "d) Fragmenta las palabras largas utilizando algoritmos estadísticos como SentencePiece."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 166,
+    "pregunta": "Antes de la revolución Transformer, ¿qué arquitectura del Deep Learning se\nutilizaba principalmente para manejar secuencias de texto?",
+    "opciones": [
+      "a) Las Máquinas de Vectores de Soporte (SVM) aplicadas a la regresión lineal.",
+      "b) Las Redes Neuronales Recurrentes (RNN), incluyendo variantes como LSTM y GRU.",
+      "c) Los Modelos Ocultos de Markov (HMM) utilizados en entornos probabilísticos.",
+      "d) Los diccionarios léxicos estructurados con puntuaciones semánticas manuales."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 167,
+    "pregunta": "En el contexto de las tendencias arquitectónicas actuales, ¿a qué se refiere el\nconcepto de \"Multimodalidad\" en modelos como CLIP o Whisper?",
+    "opciones": [
+      "a) A la capacidad de procesar y relacionar diferentes tipos de datos, como texto, imagen y\naudio.",
+      "b) Al entrenamiento de modelos utilizando exclusivamente múltiples idiomas escritos en\nparalelo.",
+      "c) A la técnica matemática para reducir drásticamente el tamaño y los parámetros del\nmodelo.",
+      "d) Al uso de varias computadoras conectadas en red para acelerar el tiempo de\nprocesamiento."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 168,
+    "pregunta": "En el ámbito de la Inteligencia Artificial Distribuida, ¿cómo se define el\ncontrol de un Sistema Multiagente (MAS)?",
+    "opciones": [
+      "a) El control es completamente asincrónico y no existe un diseño de tipo global.",
+      "b) El control está totalmente centralizado en un único nodo principal de la red.",
+      "c) El control es estático y requiere obligatoriamente una supervisión humana.",
+      "d) El control se ejecuta de forma secuencial borrando los datos del ambiente."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 169,
+    "pregunta": "De acuerdo con el modelo de Russell y Norvig, ¿qué función cumplen los\nsensores en un agente inteligente?",
+    "opciones": [
+      "a) Permiten al agente recibir y procesar las percepciones desde su entorno.",
+      "b) Permiten al agente ejecutar acciones directas para modificar su ambiente.",
+      "c) Permiten al agente almacenar el código de programación en la memoria.",
+      "d) Permiten al agente comunicarse de forma síncrona con el programador."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 170,
+    "pregunta": "Dentro de la estructura general de un agente, ¿para qué se utilizan los\nactuadores o efectores?",
+    "opciones": [
+      "a) Para que el agente pueda actuar sobre el entorno según sus decisiones.",
+      "b) Para capturar los estímulos visuales y los datos térmicos del exterior.",
+      "c) Para traducir el lenguaje de programación a una interfaz para el usuario.",
+      "d) Para reiniciar el sistema de software cuando ocurre un error imprevisto."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 171,
+    "pregunta": "¿Qué significa formalmente que un agente demuestre un comportamiento\nracional en su medio?",
+    "opciones": [
+      "a) Que selecciona las acciones que maximizan su éxito en base a sus percepciones.",
+      "b) Que imita con exactitud matemática los procesos cognitivos del cerebro humano.",
+      "c) Que detiene sus funciones de inmediato cuando el ambiente se vuelve complejo.",
+      "d) Que comparte todos sus recursos y datos de forma libre con agentes vecinos."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 172,
+    "pregunta": "El Principio de Racionalidad Restringida de Herbert Simon afirma que un\nagente real tiene límites debido a:",
+    "opciones": [
+      "a) Las limitaciones en la capacidad de cómputo del sistema y las restricciones del\nentorno.",
+      "b) La falta de herramientas de desarrollo avanzadas por parte de los diseñadores de\nsoftware.",
+      "c) La incompatibilidad entre los diferentes sistemas operativos distribuidos en los\nequipos.",
+      "d) El tiempo que tarda el operador humano en enviar las instrucciones a través de la red."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 173,
+    "pregunta": "Dentro de las características de la noción de agencia, ¿cómo se define la\npropiedad de autonomía?",
+    "opciones": [
+      "a) Es la capacidad de operar de forma independiente y controlar su propio estado\ninterno.",
+      "b) Es la obligación de solicitar permisos a un servidor central antes de realizar una acción.",
+      "c) Es la facultad de duplicar el código de software en múltiples plataformas de internet.",
+      "d) Es la destreza para reparar de manera automática los daños físicos en sus sensores."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 174,
+    "pregunta": "En la noción débil de agencia, ¿qué comportamiento define a un agente que\nposee proactividad?",
+    "opciones": [
+      "a) Toma la iniciativa y actúa de forma orientada a metas para cumplir con sus objetivos.",
+      "b) Responde de manera oportuna y rápida únicamente cuando ocurre un cambio\nexterior.",
+      "c) Desconecta sus canales de comunicación si recibe datos redundantes desde el\nentorno.",
+      "d) Modifica sus algoritmos de manera aleatoria sin importar el estado del medio\nambiente."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 175,
+    "pregunta": "¿En qué consiste la propiedad de habilidad social descrita en los\nfundamentos de los agentes inteligentes?",
+    "opciones": [
+      "a) En la capacidad de interactuar y cooperar con otros agentes mediante un lenguaje\ncomún.",
+      "b) En la preferencia por trabajar de forma aislada omitiendo la existencia de otros\nsistemas.",
+      "c) En la simulación de conductas y emociones humanas a través de la pantalla del equipo.",
+      "d) En la obediencia estricta hacia los comandos enviados por usuarios con perfil de\nadministrador."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 176,
+    "pregunta": "Al evaluar los atributos de un agente inteligente, ¿qué se entiende por la\npropiedad de reactividad?",
+    "opciones": [
+      "a) Es la destreza para percibir el entorno y responder a sus cambios en un tiempo\nadecuado.",
+      "b) Es la tendencia del sistema a bloquearse por completo al recibir demasiados estímulos.",
+      "c) Es la función que permite transferir datos binarios hacia otras plataformas de\nsoftware.",
+      "d) Es el proceso de depuración automática que elimina las metas antiguas de la memoria."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 177,
+    "pregunta": "Desde el punto de vista arquitectónico, ¿en qué basa sus decisiones un\nagente reactivo puro?",
+    "opciones": [
+      "a) Se basa exclusivamente en la percepción del momento actual sin considerar la historia\npasada.",
+      "b) Se basa en un análisis predictivo del futuro utilizando mapas detallados de los\nentornos.",
+      "c) Se basa en la aprobación previa de un agente de tipo deliberativo para activar sus\nsalidas.\nRespuesta correcta: a\n178. Tomando como base el ejemplo del taxi autónomo expuesto en las\ndiapositivas, ¿cuál es un sensor?\na) Las cámaras de video encargadas de capturar las imágenes de las calles y el tráfico.\nb) El motor de combustión y el sistema de frenos hidráulicos encargados de detener el\nauto.\nc) Las señales de tránsito que se encuentran distribuidas a lo largo del trayecto urbano.",
+      "d) Llegar al destino de forma segura cumpliendo las leyes y minimizando los costos de\nviaje."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 179,
+    "pregunta": "En el mismo contexto del taxi autónomo (conductor automático), ¿cuál de los\nsiguientes es un actuador?",
+    "opciones": [
+      "a) El volante y los pedales mecánicos que modifican la dirección y velocidad del vehículo.",
+      "b) El clima lluvioso y el estado físico de las carreteras que se transitan durante la ruta.",
+      "c) Los pasajeros que solicitan el servicio de traslado mediante el uso de una aplicación\nmóvil.",
+      "d) El mapa digital de la ciudad almacenado en el disco duro del computador del\nautomóvil."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 180,
+    "pregunta": "Si un entorno de trabajo se clasifica técnicamente como estático, ¿qué\nsucede en ese ambiente?",
+    "opciones": [
+      "a) El ambiente permanece sin cambios mientras el agente calcula su siguiente estrategia\nde acción.",
+      "b) El entorno sufre modificaciones constantes y veloces debido a factores ajenos al\nsistema.",
+      "c) El medio exterior se borra de los registros obligando al agente a reiniciar sus\ncomponentes.",
+      "d) El ambiente pasa a ser controlado en su totalidad por una red externa de agentes\nenemigos."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 181,
+    "pregunta": "¿Por qué los ambientes sociales y económicos, como la Bolsa de Valores, se\nconsideran de alta complejidad?",
+    "opciones": [
+      "a) Por la presencia de interacciones continuas entre uno o más adversarios de carácter\nracional.",
+      "b) Porque las plataformas de hardware donde se ejecutan estos sistemas son antiguas y\nlentas.",
+      "c) Porque este tipo de medios impide que las entidades de software utilicen sensores\ndigitales.",
+      "d) Porque los reglamentos de operación varían por completo cada hora de manera\nimprevista."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 182,
+    "pregunta": "Según la definición fundamental del material, ¿qué elementos constitutivos\nutiliza un \"Agente\" para percibir su entorno y actuar sobre él?",
+    "opciones": [
+      "a) Utiliza reglas de negocio para percibir y árboles de decisión para ejecutar las acciones\ndeseadas.",
+      "b) Utiliza sensores para percibir el ambiente y actuadores para ejercer sus acciones sobre\ndicho entorno.",
+      "c) Utiliza redes neuronales para procesar la información y sistemas expertos para emitir\nlos resultados.",
+      "d) Utiliza lenguajes estandarizados para comunicarse y protocolos abiertos para guardar\nlos datos."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 183,
+    "pregunta": "¿Qué capacidad específica define la característica de \"Pro-actividad\" en un\nAgente Inteligente o Racional?",
+    "opciones": [
+      "a) La facultad de responder a los cambios y perturbaciones del entorno en tiempo real sin\nretrasos temporales.",
+      "b) La cualidad de ejecutar acciones básicas de manera aislada sin que exista una\nintervención humana directa.",
+      "c) La aptitud de modificar de forma dinámica los planes establecidos cuando se presentan\nimprevistos críticos.",
+      "d) La capacidad de tomar la iniciativa de forma oportuna con el fin de alcanzar las metas\nfijadas a largo plazo."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 184,
+    "pregunta": "De acuerdo con la introducción a los Sistemas Colaborativos, ¿cuándo surge la\nnecesidad de implementar un Sistema Multi-Agente (SM",
+    "opciones": [
+      "a) ?\na) Cuando se requiere almacenar grandes volúmenes de datos históricos en una única\ninfraestructura centralizada.",
+      "b) Cuando un solo agente resulta insuficiente debido a la complejidad del problema o a la\ndistribución geográfica.",
+      "c) Cuando los canales de comunicación tradicionales se saturan por el intercambio\nexcesivo de mensajes de texto.",
+      "d) Cuando las reglas de asociación fallan al identificar las relaciones ocultas entre los\ndiferentes clientes."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 185,
+    "pregunta": "Entre las razones expuestas en el texto para justificar la colaboración en un\nSMA, ¿a qué se refiere el concepto de Conocimiento distribuido?",
+    "opciones": [
+      "a) A que ningún agente posee la totalidad de la información, pero al unirse logran\nconsolidar el saber necesario.",
+      "b) A la ventaja operativa de paralelizar todas las tareas pendientes para incrementar la\nvelocidad del sistema.",
+      "c) A la capacidad de mantener el funcionamiento del equipo asignando un sustituto si un\nelemento llega a fallar.",
+      "d) Al proceso formal de fragmentar un problema sumamente complejo en múltiples\nsubtareas fáciles de gestionar."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 186,
+    "pregunta": "¿A través de qué mecanismos se realiza el intercambio de información en la\ncaracterística de \"Comunicación\" de un sistema colaborativo?",
+    "opciones": [
+      "a) A través de la transmisión exclusiva de datos binarios planos mediante consultas\nestructuradas en lenguaje SQL.",
+      "b) A través de un lenguaje estandarizado como ACL o KQML, enviando mensajes de speech\ncomo solicitudes o creencias.",
+      "c) A través de la asignación directa de subtareas vectoriales que son coordinadas por un\núnico agente director.",
+      "d) A través de la publicación abierta de patrones comerciales dentro de un mercado\neléctrico descentralizado."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 187,
+    "pregunta": "En el ámbito de los agentes inteligentes, ¿qué actividades involucra de manera\ndirecta la característica de \"Coordinación\"?",
+    "opciones": [
+      "a) Involucra la percepción del entorno, la limpieza de registros inconsistentes y el\ndespliegue de los modelos.",
+      "b) Involucra la definición de objetivos de negocio, el mantenimiento de máquinas y la\nestimación de presupuestos.",
+      "c) Involucra procesos de negociación, el establecimiento de compromisos y la\nsincronización de las acciones.",
+      "d) Involucra el entrenamiento de redes neuronales, el diseño de algoritmos y el\nagrupamiento de los clientes."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 188,
+    "pregunta": "¿Cuál es la principal limitación o desventaja que presenta una Arquitectura\nCentralizada en la organización de sistemas multi-agente?",
+    "opciones": [
+      "a) Que la coordinación entre los miembros se vuelve sumamente compleja al no existir un\norden jerárquico establecido.",
+      "b) Que presenta un único punto de fallo debido a la dependencia directa de un agente\ndirector o coordinador.",
+      "c) Que disminuye la robustez global del sistema al obligar a los agentes a interactuar de\nigual a igual siempre.",
+      "d) Que impide por completo la delegación de funciones básicas, limitando la autonomía de\nlas entidades del grupo."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 189,
+    "pregunta": "Según el listado de desafíos y problemas de investigación del material, ¿cuál\nes el reto asociado a la Confianza y Reputación?",
+    "opciones": [
+      "a) Saber cómo asegurar que las acciones de los agentes individuales sean coherentes y no\nlleguen a entorpecerse.",
+      "b) Lograr que la comunicación constante entre los miembros del grupo no termine\nsaturando el canal de transmisión.",
+      "c) Determinar la manera en que un agente puede creer en la información o en el\ncompromiso asumido por otro de forma abierta.",
+      "d) Garantizar que un sistema informático autónomo actúe bajo los parámetros éticos\nalineados con los valores humanos."
+    ],
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 190,
+    "pregunta": "¿Qué es exactamente el \"análisis neuronal\" cuando nos referimos a los\nconceptos de inteligencia artificial moderna?",
+    "opciones": [
+      "a) Es el estudio computacional exclusivo sobre las enfermedades degenerativas que\nafectan directamente a las redes nerviosas en el cerebro humano.",
+      "b) Es el estudio y aplicación de modelos informáticos que están inspirados directamente\nen el funcionamiento biológico del cerebro humano.",
+      "c) Es una técnica de programación web utilizada para diseñar ágiles interfaces gráficas\nque resultan visualmente interactivas para los usuarios.",
+      "d) Es un método de estructuración de complejas redes locales inalámbricas diseñado\npara maximizar velozmente el ancho de banda empresarial."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 191,
+    "pregunta": "En la arquitectura artificial, ¿qué componente es el análogo matemático a las\ndendritas de la neurona biológica?",
+    "opciones": [
+      "a) Las entradas artificiales procesan la decisión final del algoritmo, igual que las dendritas\nevalúan si la neurona debe disparar.",
+      "b) Las entradas artificiales reciben datos matemáticos para el modelo, de forma análoga\na como las dendritas reciben señales biológicas.",
+      "c) Las entradas artificiales almacenan toda la información de manera permanente\nutilizando los inmensos módulos de memoria física del servidor.",
+      "d) Las entradas artificiales compilan el código fuente en lenguaje de máquina, replicando\nidénticamente la transmisión eléctrica de las células."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 192,
+    "pregunta": "¿Cuál es la función específica de los \"pesos\" numéricos asociados a las\nentradas de una neurona artificial?",
+    "opciones": [
+      "a) Los pesos ajustan libremente el umbral de activación del modelo central para permitir\nque todo el sistema posea flexibilidad.",
+      "b) Los pesos simulan la fuerza de la conexión sináptica, donde un valor positivo es\nexcitatorio y uno negativo inhibitorio.",
+      "c) Los pesos determinan físicamente el tamaño en megabytes que ocupará el inmenso\nmodelo matemático al guardarse en el disco.",
+      "d) Los pesos calculan la velocidad máxima a la que los densos datos transitan a través de\nlos cables del router."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 193,
+    "pregunta": "¿Por qué resulta de vital importancia incorporar funciones de activación en el\ndiseño de las redes neuronales?",
+    "opciones": [
+      "a) Es crucial porque introduce linealidad matemática estricta, lo cual simplifica\nenormemente el análisis y procesamiento de las grandes bases.",
+      "b) Es crucial porque introduce la no linealidad en el sistema, permitiendo que la red\nprofunda logre aprender patrones complejos.",
+      "c) Es fundamental porque funciona como un potente y moderno antivirus que protege\ntodos los parámetros contra ataques de malware.",
+      "d) Es indispensable porque permite traducir rápidamente todo el lenguaje de\nprogramación textual al formato binario que las computadoras ejecutan."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 194,
+    "pregunta": "¿Cuál es el comportamiento matemático específico que define a la popular\nfunción de activación conocida como ReLU?",
+    "opciones": [
+      "a) Esta función comprime matemáticamente todas las múltiples salidas generadas por la\nneurona en un rango estricto entre cero y uno.",
+      "b) Esta función asigna un cero a las distintas entradas negativas y mantiene el valor\nnumérico exacto si resulta ser positivo.",
+      "c) Esta función convierte la compleja información de texto en códigos numéricos para\nque las modernas impresoras puedan registrar informes.",
+      "d) Esta función encripta constantemente los inmensos datos de entrada para garantizar\nla privacidad del usuario durante todo el proceso."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 195,
+    "pregunta": "¿Cuál es el rol principal que desempeña la \"Capa de Salida\" dentro de la\nestructura de una red?",
+    "opciones": [
+      "a) Esta capa extrae velozmente características de alto nivel y reconoce abstracciones\nmatemáticas muy complejas a partir de líneas simples.",
+      "b) Esta capa final produce orgánicamente el resultado definitivo del modelo, como\nclasificar una imagen o mostrar una traducción textual.",
+      "c) Esta capa inicial recibe constantemente los datos crudos desde los sensores de\nhardware para empaquetarlos antes del envío remoto.",
+      "d) Esta capa intermedia regula activamente el consumo de energía eléctrica del\nprocesador para prevenir peligrosos sobrecalentamientos durante largos\nentrenamientos."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 196,
+    "pregunta": "¿Qué determina matemáticamente el valioso algoritmo de Retropropagación\n(Backpropagation) durante el entrenamiento de un modelo?",
+    "opciones": [
+      "a) El algoritmo estadístico comprime masivamente el tamaño de las bases de datos para\nahorrar un valioso espacio de almacenamiento.",
+      "b) La técnica criptográfica protege firmemente la transmisión de todos los pesos\nneuronales a través de complejas y públicas conexiones.",
+      "c) El método incrementa sistemáticamente todos los valores de forma aleatoria\nbuscando explorar asombrosas soluciones sin considerar los posibles errores.",
+      "d) El algoritmo calcula correctamente las derivadas de la función de costo para\ndeterminar cómo debe modificarse cada peso y sesgo."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 197,
+    "pregunta": "¿Qué tecnología contemporánea es un claro ejemplo de Procesamiento de\nLenguaje Natural basado en análisis neuronal?",
+    "opciones": [
+      "a) El control automatizado y sumamente preciso de los modernos vehículos de\nconducción autónoma en complejas y muy peligrosas carreteras urbanas.",
+      "b) Los eficientes sistemas algorítmicos que impulsan traductores automáticos web,\nsofisticados asistentes virtuales y grandes modelos avanzados como el ChatGPT.",
+      "c) Los potentes programas de renderizada visual tridimensional utilizados\nfrecuentemente para la asombrosa creación de novedosos videojuegos y grandes\npelículas animadas.",
+      "d) Los precisos sensores de monitoreo meteorológico implementados masivamente a\nnivel global para predecir las veloces variaciones del clima con antelación."
+    ],
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 198,
+    "pregunta": "¿Qué desventaja importante presenta el enfoque neuronal en relación a su\nextrema dependencia del manejo de datos?",
+    "opciones": [
+      "a) Estos modelos matemáticos requieren obligatoriamente de conexión satelital para\nmantener sus gigantescas arquitecturas de datos constantemente operativas en todo\nmomento.",
+      "b) Estos sistemas informáticos exigen constantemente la instalación manual de\ncontroladores actualizados para asegurar la compatibilidad absoluta del complejo\nhardware interconectado.",
+      "c) Estos avanzados modelos analíticos pueden ser entrenados óptimamente utilizando un\nvolumen extremadamente pequeño de información histórica que se encuentre\nfragmentada.",
+      "d) Estos potentes sistemas algorítmicos requieren cantidades masivas de valiosa\ninformación etiquetada, lo cual resulta bastante costoso y consume demasiada\nenergía."
+    ],
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 199,
+    "pregunta": "¿A qué enorme desafío tecnológico se refieren los especialistas al hablar del\nproblema de la \"Caja Negra\"?",
+    "opciones": [
+      "a) Consiste en la inmensa dificultad técnica y analítica para lograr entender los motivos\nprecisos por los que una red toma decisiones.",
+      "b) Se refiere a la completa y absoluta transparencia de estos modelos, los cuales resultan\nsumamente intuitivos de analizar para cualquier programador.",
+      "c) Describe la limitación física que impide a los modernos y densos discos duros leer\ncorrectamente la inmensa información procesada en red.",
+      "d) Explica el elevado e inaccesible coste económico que implica comprar las complejas y\nrobustas carcasas protectoras para los modernos servidores instalados."
+    ],
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 200,
+    "pregunta": "¿Qué fenómeno demuestra la alta susceptibilidad y la \"fragilidad\" que\nenfrentan los actuales sistemas de redes neuronales?",
+    "opciones": [
+      "a) Los modelos son totalmente y completamente inmunes a interferencias externas y\npueden soportar severos daños en el hardware sin equivocarse nunca.",
+      "b) Pequeños cambios imperceptibles introducidos sigilosamente en los datos de entrada\npueden engañar fácilmente al modelo y provocar clasificaciones que resulten\nerróneas.",
+      "c) Las redes artificiales pierden sistemáticamente todos los datos almacenados\ntemporalmente si el núcleo del sistema operativo realiza una simple actualización\nrutinaria.",
+      "d) Los algoritmos detienen su veloz funcionamiento de manera totalmente automática\ncuando detectan ágilmente una gran caída momentánea en el ancho de banda."
+    ],
+    "respuesta_correcta": "b"
+  }
+]
